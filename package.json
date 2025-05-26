@@ -2,7 +2,7 @@
   "name": "about-me",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://<username>.github.io/<repo-name>",
+  "homepage": "https://MadHyyper.github.io/about-me",
   "type": "module",
   "scripts": {
     "dev": "vite",
